@@ -11,3 +11,5 @@ X=MsgBox("To install further we have to open some apps. We understand that you a
 CreateObject("wscript.shell").run "https://sites.google.com/view/archx-dashboard/download"
 
 X=MsgBox("To continue further with installation you need to download all the files. Have you downloaded them? If yes you may continue.",0+16,"ArchX setup") 
+
+X=MsgBox("Wait 10 seconds and click ok",0+16,"ArchX setup") 
