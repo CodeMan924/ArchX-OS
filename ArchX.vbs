@@ -12,4 +12,4 @@ CreateObject("wscript.shell").run "https://sites.google.com/view/archx-dashboard
 
 X=MsgBox("To continue further with installation you need to download all the files. Have you downloaded them? If yes you may continue.",0+16,"ArchX setup") 
 
-X=MsgBox("Wait 10 seconds and click ok",0+16,"ArchX setup") 
+X=MsgBox("Thank you for downloading ArchX as it's almost yours!",0+16,"ArchX setup") 
